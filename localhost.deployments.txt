@@ -1,0 +1,1 @@
+0x0075d17148ed2972e0355a58c2e3209bb8936e4998762eb47a22ab82f6532946:artifacts/abis/contract.json:mock_contract
